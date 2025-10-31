@@ -1,0 +1,308 @@
+[2025-10-31T00:33:50.798+0000] {processor.py:161} INFO - Started process (PID=3806) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T00:33:50.804+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T00:33:50.815+0000] {logging_mixin.py:188} INFO - [2025-10-31T00:33:50.814+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T00:33:53.210+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T00:33:53.415+0000] {logging_mixin.py:188} INFO - [2025-10-31T00:33:53.414+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T00:33:53.480+0000] {logging_mixin.py:188} INFO - [2025-10-31T00:33:53.480+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 00:33:00+00:00, run_after=2025-10-31 00:34:00+00:00
+[2025-10-31T00:33:53.538+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 2.809 seconds
+[2025-10-31T12:27:00.912+0000] {processor.py:161} INFO - Started process (PID=3830) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:27:00.925+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:27:00.942+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:27:00.938+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:27:01.884+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:27:02.025+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:27:02.024+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:27:02.401+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:27:02.400+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:26:00+00:00, run_after=2025-10-31 12:27:00+00:00
+[2025-10-31T12:27:02.618+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 1.843 seconds
+[2025-10-31T12:27:33.580+0000] {processor.py:161} INFO - Started process (PID=3862) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:27:33.582+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:27:33.583+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:27:33.583+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:27:33.717+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:27:33.746+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:27:33.746+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:27:33.771+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:27:33.771+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:27:00+00:00, run_after=2025-10-31 12:28:00+00:00
+[2025-10-31T12:27:33.793+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.216 seconds
+[2025-10-31T12:28:04.030+0000] {processor.py:161} INFO - Started process (PID=3868) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:28:04.031+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:28:04.033+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:28:04.032+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:28:04.175+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:28:04.204+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:28:04.204+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:28:04.237+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:28:04.236+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:28:00+00:00, run_after=2025-10-31 12:29:00+00:00
+[2025-10-31T12:28:04.273+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.248 seconds
+[2025-10-31T12:28:34.564+0000] {processor.py:161} INFO - Started process (PID=3874) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:28:34.565+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:28:34.567+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:28:34.566+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:28:34.688+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:28:34.715+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:28:34.714+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:28:34.740+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:28:34.739+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:28:00+00:00, run_after=2025-10-31 12:29:00+00:00
+[2025-10-31T12:28:34.763+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.202 seconds
+[2025-10-31T12:29:05.036+0000] {processor.py:161} INFO - Started process (PID=3884) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:29:05.038+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:29:05.040+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:29:05.039+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:29:05.177+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:29:05.203+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:29:05.202+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:29:05.224+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:29:05.224+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:29:00+00:00, run_after=2025-10-31 12:30:00+00:00
+[2025-10-31T12:29:05.270+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.238 seconds
+[2025-10-31T12:29:35.550+0000] {processor.py:161} INFO - Started process (PID=3886) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:29:35.551+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:29:35.552+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:29:35.552+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:29:35.687+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:29:35.721+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:29:35.720+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:29:35.752+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:29:35.752+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:29:00+00:00, run_after=2025-10-31 12:30:00+00:00
+[2025-10-31T12:29:35.775+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.230 seconds
+[2025-10-31T12:30:06.064+0000] {processor.py:161} INFO - Started process (PID=3896) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:30:06.065+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:30:06.068+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:30:06.067+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:30:06.223+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:30:06.253+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:30:06.252+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:30:06.278+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:30:06.277+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:30:00+00:00, run_after=2025-10-31 12:31:00+00:00
+[2025-10-31T12:30:06.301+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.242 seconds
+[2025-10-31T12:30:36.557+0000] {processor.py:161} INFO - Started process (PID=3898) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:30:36.559+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:30:36.560+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:30:36.560+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:30:36.697+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:30:36.723+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:30:36.722+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:30:36.744+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:30:36.744+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:30:00+00:00, run_after=2025-10-31 12:31:00+00:00
+[2025-10-31T12:30:36.764+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.213 seconds
+[2025-10-31T12:31:07.008+0000] {processor.py:161} INFO - Started process (PID=3908) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:31:07.009+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:31:07.010+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:31:07.010+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:31:07.143+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:31:07.170+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:31:07.169+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:31:07.194+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:31:07.194+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:31:00+00:00, run_after=2025-10-31 12:32:00+00:00
+[2025-10-31T12:31:07.214+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.212 seconds
+[2025-10-31T12:31:37.302+0000] {processor.py:161} INFO - Started process (PID=3910) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:31:37.303+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:31:37.305+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:31:37.305+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:31:37.437+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:31:37.474+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:31:37.473+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:31:37.501+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:31:37.501+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:31:00+00:00, run_after=2025-10-31 12:32:00+00:00
+[2025-10-31T12:31:37.520+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.246 seconds
+[2025-10-31T12:32:07.828+0000] {processor.py:161} INFO - Started process (PID=3920) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:32:07.829+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:32:07.831+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:32:07.831+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:32:07.937+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:32:07.963+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:32:07.963+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:32:07.985+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:32:07.985+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:32:00+00:00, run_after=2025-10-31 12:33:00+00:00
+[2025-10-31T12:32:08.007+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.183 seconds
+[2025-10-31T12:32:38.227+0000] {processor.py:161} INFO - Started process (PID=3922) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:32:38.229+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:32:38.231+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:32:38.230+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:32:38.363+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:32:38.392+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:32:38.391+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:32:38.414+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:32:38.414+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:32:00+00:00, run_after=2025-10-31 12:33:00+00:00
+[2025-10-31T12:32:38.434+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.211 seconds
+[2025-10-31T12:33:08.663+0000] {processor.py:161} INFO - Started process (PID=3932) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:33:08.664+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:33:08.665+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:33:08.665+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:33:08.788+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:33:08.811+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:33:08.811+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:33:08.832+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:33:08.832+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:33:00+00:00, run_after=2025-10-31 12:34:00+00:00
+[2025-10-31T12:33:08.852+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.194 seconds
+[2025-10-31T12:33:39.064+0000] {processor.py:161} INFO - Started process (PID=3934) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:33:39.065+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:33:39.067+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:33:39.067+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:33:39.188+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:33:39.211+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:33:39.211+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:33:39.231+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:33:39.231+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:33:00+00:00, run_after=2025-10-31 12:34:00+00:00
+[2025-10-31T12:33:39.248+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.188 seconds
+[2025-10-31T12:34:09.462+0000] {processor.py:161} INFO - Started process (PID=3944) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:34:09.463+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:34:09.464+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:34:09.464+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:34:09.583+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:34:09.609+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:34:09.608+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:34:09.630+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:34:09.630+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:34:00+00:00, run_after=2025-10-31 12:35:00+00:00
+[2025-10-31T12:34:09.650+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.192 seconds
+[2025-10-31T12:34:39.856+0000] {processor.py:161} INFO - Started process (PID=3946) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:34:39.858+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:34:39.859+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:34:39.859+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:34:39.979+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:34:40.009+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:34:40.008+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:34:40.033+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:34:40.033+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:34:00+00:00, run_after=2025-10-31 12:35:00+00:00
+[2025-10-31T12:34:40.055+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.203 seconds
+[2025-10-31T12:35:10.297+0000] {processor.py:161} INFO - Started process (PID=3956) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:35:10.298+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:35:10.299+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:35:10.299+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:35:10.404+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:35:10.427+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:35:10.427+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:35:10.448+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:35:10.448+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:35:00+00:00, run_after=2025-10-31 12:36:00+00:00
+[2025-10-31T12:35:10.468+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.175 seconds
+[2025-10-31T12:35:40.700+0000] {processor.py:161} INFO - Started process (PID=3958) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:35:40.705+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:35:40.706+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:35:40.706+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:35:40.828+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:35:40.853+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:35:40.853+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:35:40.878+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:35:40.877+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:35:00+00:00, run_after=2025-10-31 12:36:00+00:00
+[2025-10-31T12:35:40.899+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.204 seconds
+[2025-10-31T12:36:11.103+0000] {processor.py:161} INFO - Started process (PID=3968) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:36:11.104+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:36:11.105+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:36:11.105+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:36:11.198+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:36:11.221+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:36:11.221+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:36:11.241+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:36:11.241+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:36:00+00:00, run_after=2025-10-31 12:37:00+00:00
+[2025-10-31T12:36:11.256+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.155 seconds
+[2025-10-31T12:36:41.313+0000] {processor.py:161} INFO - Started process (PID=3970) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:36:41.314+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:36:41.315+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:36:41.314+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:36:41.418+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:36:41.441+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:36:41.441+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:36:41.460+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:36:41.460+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:36:00+00:00, run_after=2025-10-31 12:37:00+00:00
+[2025-10-31T12:36:41.476+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.166 seconds
+[2025-10-31T12:37:11.750+0000] {processor.py:161} INFO - Started process (PID=3980) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:37:11.751+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:37:11.752+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:37:11.752+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:37:11.858+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:37:11.884+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:37:11.884+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:37:11.902+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:37:11.902+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:37:00+00:00, run_after=2025-10-31 12:38:00+00:00
+[2025-10-31T12:37:11.919+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.173 seconds
+[2025-10-31T12:37:41.990+0000] {processor.py:161} INFO - Started process (PID=3982) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:37:41.991+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:37:41.992+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:37:41.992+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:37:42.109+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:37:42.136+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:37:42.135+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:37:42.158+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:37:42.158+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:37:00+00:00, run_after=2025-10-31 12:38:00+00:00
+[2025-10-31T12:37:42.177+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.191 seconds
+[2025-10-31T12:38:12.416+0000] {processor.py:161} INFO - Started process (PID=3992) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:38:12.420+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:38:12.421+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:38:12.421+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:38:12.527+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:38:12.554+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:38:12.553+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:38:12.573+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:38:12.573+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:38:00+00:00, run_after=2025-10-31 12:39:00+00:00
+[2025-10-31T12:38:12.592+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.179 seconds
+[2025-10-31T12:38:42.793+0000] {processor.py:161} INFO - Started process (PID=3994) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:38:42.794+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:38:42.795+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:38:42.794+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:38:42.887+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:38:42.908+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:38:42.908+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:38:42.926+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:38:42.926+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:38:00+00:00, run_after=2025-10-31 12:39:00+00:00
+[2025-10-31T12:38:42.942+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.152 seconds
+[2025-10-31T12:39:13.002+0000] {processor.py:161} INFO - Started process (PID=4004) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:39:13.003+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:39:13.004+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:39:13.003+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:39:13.113+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:39:13.137+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:39:13.136+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:39:13.157+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:39:13.157+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:39:00+00:00, run_after=2025-10-31 12:40:00+00:00
+[2025-10-31T12:39:13.176+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.178 seconds
+[2025-10-31T12:39:43.405+0000] {processor.py:161} INFO - Started process (PID=4006) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:39:43.406+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:39:43.407+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:39:43.407+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:39:43.507+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:39:43.528+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:39:43.528+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:39:43.545+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:39:43.545+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:39:00+00:00, run_after=2025-10-31 12:40:00+00:00
+[2025-10-31T12:39:43.561+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.160 seconds
+[2025-10-31T12:40:13.616+0000] {processor.py:161} INFO - Started process (PID=4016) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:40:13.620+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:40:13.621+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:40:13.620+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:40:13.723+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:40:13.744+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:40:13.744+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:40:13.763+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:40:13.763+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:40:00+00:00, run_after=2025-10-31 12:41:00+00:00
+[2025-10-31T12:40:13.779+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.166 seconds
+[2025-10-31T12:40:44.005+0000] {processor.py:161} INFO - Started process (PID=4018) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:40:44.006+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:40:44.008+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:40:44.007+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:40:44.095+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:40:44.118+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:40:44.117+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:40:44.135+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:40:44.134+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:40:00+00:00, run_after=2025-10-31 12:41:00+00:00
+[2025-10-31T12:40:44.150+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.148 seconds
+[2025-10-31T12:41:14.221+0000] {processor.py:161} INFO - Started process (PID=4028) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:41:14.223+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:41:14.224+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:41:14.224+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:41:14.311+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:41:14.332+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:41:14.332+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:41:14.352+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:41:14.351+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:41:00+00:00, run_after=2025-10-31 12:42:00+00:00
+[2025-10-31T12:41:14.370+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.153 seconds
+[2025-10-31T12:41:44.532+0000] {processor.py:161} INFO - Started process (PID=4030) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:41:44.533+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:41:44.533+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:41:44.533+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:41:44.620+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:41:44.641+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:41:44.641+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:41:44.660+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:41:44.660+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:41:00+00:00, run_after=2025-10-31 12:42:00+00:00
+[2025-10-31T12:41:44.677+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.148 seconds
+[2025-10-31T12:42:14.781+0000] {processor.py:161} INFO - Started process (PID=4040) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:42:14.783+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:42:14.784+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:42:14.783+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:42:14.877+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:42:14.896+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:42:14.896+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:42:14.913+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:42:14.913+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:42:00+00:00, run_after=2025-10-31 12:43:00+00:00
+[2025-10-31T12:42:14.928+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.150 seconds
+[2025-10-31T12:42:45.074+0000] {processor.py:161} INFO - Started process (PID=4042) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:42:45.075+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:42:45.076+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:42:45.075+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:42:45.174+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:42:45.196+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:42:45.196+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:42:45.216+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:42:45.216+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:42:00+00:00, run_after=2025-10-31 12:43:00+00:00
+[2025-10-31T12:42:45.235+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.165 seconds
+[2025-10-31T12:43:15.330+0000] {processor.py:161} INFO - Started process (PID=4052) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:43:15.331+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:43:15.333+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:43:15.333+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:43:15.427+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:43:15.446+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:43:15.446+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:43:15.465+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:43:15.464+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:43:00+00:00, run_after=2025-10-31 12:44:00+00:00
+[2025-10-31T12:43:15.480+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.153 seconds
+[2025-10-31T12:43:45.637+0000] {processor.py:161} INFO - Started process (PID=4054) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:43:45.639+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:43:45.641+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:43:45.640+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:43:45.755+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:43:45.782+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:43:45.781+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:43:45.803+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:43:45.803+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:43:00+00:00, run_after=2025-10-31 12:44:00+00:00
+[2025-10-31T12:43:45.820+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.186 seconds
+[2025-10-31T12:44:16.088+0000] {processor.py:161} INFO - Started process (PID=4064) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:44:16.090+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:44:16.091+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:44:16.091+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:44:16.203+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:44:16.229+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:44:16.228+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:44:16.250+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:44:16.250+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:44:00+00:00, run_after=2025-10-31 12:45:00+00:00
+[2025-10-31T12:44:16.269+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.184 seconds
+[2025-10-31T12:44:46.526+0000] {processor.py:161} INFO - Started process (PID=4066) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:44:46.530+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:44:46.531+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:44:46.530+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:44:46.649+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:44:46.677+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:44:46.677+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:44:46.699+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:44:46.699+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:44:00+00:00, run_after=2025-10-31 12:45:00+00:00
+[2025-10-31T12:44:46.718+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.195 seconds
+[2025-10-31T12:45:16.788+0000] {processor.py:161} INFO - Started process (PID=4076) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:45:16.789+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:45:16.790+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:45:16.790+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:45:16.896+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:45:16.922+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:45:16.921+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:45:16.941+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:45:16.941+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:45:00+00:00, run_after=2025-10-31 12:46:00+00:00
+[2025-10-31T12:45:16.960+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.175 seconds
+[2025-10-31T12:45:47.162+0000] {processor.py:161} INFO - Started process (PID=4078) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:45:47.163+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:45:47.165+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:45:47.164+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:45:47.274+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:45:47.297+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:45:47.297+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:45:47.318+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:45:47.318+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:45:00+00:00, run_after=2025-10-31 12:46:00+00:00
+[2025-10-31T12:45:47.338+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.180 seconds
+[2025-10-31T12:46:17.401+0000] {processor.py:161} INFO - Started process (PID=4088) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:46:17.402+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:46:17.404+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:46:17.403+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:46:17.513+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:46:17.540+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:46:17.539+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:46:17.564+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:46:17.563+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:46:00+00:00, run_after=2025-10-31 12:47:00+00:00
+[2025-10-31T12:46:17.581+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.183 seconds
+[2025-10-31T12:46:47.763+0000] {processor.py:161} INFO - Started process (PID=4090) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:46:47.764+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:46:47.765+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:46:47.765+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:46:47.875+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:46:47.902+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:46:47.902+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:46:47.924+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:46:47.924+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:46:00+00:00, run_after=2025-10-31 12:47:00+00:00
+[2025-10-31T12:46:47.943+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.185 seconds
+[2025-10-31T12:47:18.057+0000] {processor.py:161} INFO - Started process (PID=4100) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:47:18.058+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:47:18.059+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:47:18.058+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:47:18.172+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:47:18.200+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:47:18.200+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:47:18.219+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:47:18.219+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:47:00+00:00, run_after=2025-10-31 12:48:00+00:00
+[2025-10-31T12:47:18.238+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.185 seconds
+[2025-10-31T12:47:48.502+0000] {processor.py:161} INFO - Started process (PID=4102) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:47:48.504+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:47:48.505+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:47:48.505+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:47:48.627+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:47:48.649+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:47:48.649+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:47:48.672+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:47:48.671+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:47:00+00:00, run_after=2025-10-31 12:48:00+00:00
+[2025-10-31T12:47:48.691+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.193 seconds
+[2025-10-31T12:48:18.744+0000] {processor.py:161} INFO - Started process (PID=4112) to work on /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:48:18.745+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag2_elastic_gcs_ingestion.py for tasks to queue
+[2025-10-31T12:48:18.746+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:48:18.746+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:48:18.856+0000] {processor.py:840} INFO - DAG(s) 'dag2_kafka_elastic_gcs' retrieved from /opt/airflow/dags/dag2_elastic_gcs_ingestion.py
+[2025-10-31T12:48:18.881+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:48:18.881+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-10-31T12:48:18.901+0000] {logging_mixin.py:188} INFO - [2025-10-31T12:48:18.900+0000] {dag.py:3823} INFO - Setting next_dagrun for dag2_kafka_elastic_gcs to 2025-10-31 12:48:00+00:00, run_after=2025-10-31 12:49:00+00:00
+[2025-10-31T12:48:18.922+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag2_elastic_gcs_ingestion.py took 0.181 seconds
